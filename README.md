@@ -1,2 +1,5 @@
-npm install
-npm run dev
+# Инструкция к запуску
+
+  npm install
+  
+  npm run dev
